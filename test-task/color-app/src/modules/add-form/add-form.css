@@ -1,0 +1,11 @@
+.add-form {
+   display: flex;
+   /* justify-content: space-between; */
+   margin-left: 200px;
+}
+
+@media (max-width: 768px) {
+    .add-form {
+        display: inline;
+    }
+}

@@ -1,0 +1,9 @@
+.edit-form {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 500px;
+ }
+
+.hide {
+    display: none;
+}
